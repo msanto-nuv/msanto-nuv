@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @msanto-nuv, the accoutn that Marco Santonastasi uses to contribute code to Nuvolaris.io
+- 👋 Hi, I’m @msanto-nuv, the github handle that Marco Santonastasi uses to contribute code to Nuvolaris.io
 - 👀 I’m interested in coding in all its forms
 - 🌱 I’m currently learning Kubernetis
 - 💞️ I’m looking to collaborate on cool open source projects
